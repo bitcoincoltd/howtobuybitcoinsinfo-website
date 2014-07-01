@@ -1394,3 +1394,21 @@ J&KCoins:
   url: http://www.jandkcoins.ca/
   content: <p>J&KCoins - Offers Canadian residents a safe and secure method of purchasing paper wallets preloaded with Bitcoins using Interac Online.</p>
   coins: [btc, doge]
+
+bx:
+  icon: https://bitcoin.co.th/wp-content/uploads/2014/06/bxlogo.png
+  label: BX.in.th
+  url: https://bx.in.th/
+  content: BX Bitcoin Exchange Thailand | Operated by Bitcoin Co. Ltd.
+  coins: [BTC,LTC,NMC,XPM,PPC,ZET,MAX,FTC,DOGE]
+  countries: [th]
+  location: [th]
+  
+bitcoin:
+  icon: http://bitcoin.co.th/bitcoinlogo.png
+  label: Bitcoin Co. Ltd. (Thailand)
+  url: https://bitcoin.co.th
+  content: Buy and Sell Bitcoins in Thailand with Bitcoin Co. Ltd.
+  coins: [BTC]
+  countries: [th]
+  location: [th]
